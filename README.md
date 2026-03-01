@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Phaneendra 👋
 
-<!--
-**Phaneendra2005/Phaneendra2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Full Stack Development  
+🚀 Currently learning React and Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- JavaScript
+- HTML
+- CSS
+- Git
+- SQL
+
+---
+
+## 📌 Projects
+- Blood Cell Detection using ML
+- React Alert Notification UI
+- Portfolio Website
+
+---
+
+## 📫 Contact
+- LinkedIn: your-link
+- Email: your-email
