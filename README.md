@@ -24,5 +24,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/phaneendra-kanduri-067520280/
+- Email: kphaneendra2005@gmail.com
