@@ -1,4 +1,4 @@
-# Hi, I'm Phaneendra 👋
+# Hi, I'm Phaneendra Kanduri👋
 
 🎓 Computer Science Student  
 💻 Interested in Full Stack Development  
