@@ -1,7 +1,7 @@
 Hi, I'm Phaneendra Kanduri 👋
 Computer Science & Cybersecurity Student · Full-Stack Developer · ML Engineer
 Building secure, intelligent, and scalable applications
-Email: kphaneendra2005@gmail.com | LinkedIn | GitHub
+Email: kphaneendra2005@gmail.com | https://www.linkedin.com/in/phaneendra-kanduri-067520280/ | https://github.com/Phaneendra2005
 
 🧑‍💻 About Me
 I'm a final-year B.Tech Computer Science (Cybersecurity) student at RGMCET, Nandyal, graduating in April 2026 with a CGPA of 8.20/10. I specialize in building secure full-stack applications and ML-powered systems, with hands-on experience in designing vulnerability-resilient architectures, implementing authentication pipelines, and deploying AI-driven tools.
