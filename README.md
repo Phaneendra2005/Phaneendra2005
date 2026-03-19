@@ -9,14 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phaneendra2005&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaneendra2005&layout=compact&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com?user=Phaneendra2005&theme=tokyonight)
-
----
-
 ## 🧑‍💻 About Me  
 
 🎓 Final-year B.Tech CSE (Cybersecurity) @ RGMCET (2026)  
@@ -78,13 +70,12 @@
 
 ## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)  
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)  
+Languages: Python, C, C++, JavaScript  
+Frontend: React.js, HTML, CSS, Bootstrap  
+Backend: Node.js, Express.js, Flask  
+Machine Learning: Scikit-learn, TensorFlow, Pandas, NumPy  
+Databases: MongoDB, MySQL  
+Tools: Git, GitHub, VS Code  
 
 ---
 
@@ -96,20 +87,21 @@
 
 ---
 
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phaneendra-kanduri-067520280/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Phaneendra2005)  
-
-📧 kphaneendra2005@gmail.com  
-
----
-
 ## 🎯 Interests  
 
 - Cybersecurity (VAPT basics)  
 - Backend engineering  
 - Applied Machine Learning  
+
+---
+
+## 📬 Contact  
+
+💼 Open to:
+- Internships  
+- Entry-level roles (Full-Stack / Backend / ML)  
+
+📧 kphaneendra2005@gmail.com  
 
 ---
 
