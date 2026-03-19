@@ -81,6 +81,7 @@ Tools: Git, GitHub, VS Code
 
 ## 📜 Certifications  
 
+- AWS Certified Cloud Practitioner (2025) 
 - AWS Educate — Generative AI (2025)  
 - AWS Academy — Cloud Foundations (2023)  
 - NxtWave — Full-Stack + AI/ML (Ongoing)  
