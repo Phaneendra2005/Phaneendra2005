@@ -1,80 +1,128 @@
 Hi, I'm Phaneendra Kanduri 👋
-Computer Science & Cybersecurity Student · Full-Stack Developer · ML Engineer
-Building secure, intelligent, and scalable applications
-Email: kphaneendra2005@gmail.com | https://www.linkedin.com/in/phaneendra-kanduri-067520280/ | https://github.com/Phaneendra2005
+Computer Science (Cybersecurity) Student | Full-Stack Developer | ML Engineer
 
-🧑‍💻 About Me
-I'm a final-year B.Tech Computer Science (Cybersecurity) student at RGMCET, Nandyal, graduating in April 2026 with a CGPA of 8.20/10. I specialize in building secure full-stack applications and ML-powered systems, with hands-on experience in designing vulnerability-resilient architectures, implementing authentication pipelines, and deploying AI-driven tools.
+Building secure web applications and practical ML systems
 
-🔐 Focused on Cybersecurity, ethical hacking, and secure software design
-🤖 Passionate about Machine Learning — from phishing detection to deep learning classifiers
-🌐 Experienced with the MERN stack and REST API development
-☁️ Familiar with AWS and IBM Cloud deployments
-📄 Co-authored a research publication on ML-Based Phishing URL Detection (99.9% accuracy, 100K+ URLs)
+📧 kphaneendra2005@gmail.com | https://www.linkedin.com/in/phaneendra-kanduri-067520280/ | https://github.com/Phaneendra2005
 
 
-🚀 Featured Projects
-🛡️ PhishGuard — Phishing Detection System
-ML-powered real-time phishing URL detection with 99.9% accuracy
+======================
+🧑‍💻 ABOUT ME
+======================
 
-Trained a Random Forest classifier on 100,000+ URLs using lexical & structural feature engineering
-Deployed a full-stack web application delivering instant URL risk scoring
-Stack: Python · Scikit-learn · Flask · React.js
+Final-year B.Tech Computer Science (Cybersecurity) student at RGMCET, Nandyal  
+Graduating May 2026 | CGPA: 8.20/10  
 
+- Focused on secure application development and backend systems  
+- Hands-on experience in ML model building and API deployment  
+- Built full-stack applications using React, Node.js, and Flask  
+- Basic exposure to AWS and cloud deployments  
 
-🩸 HematoVision — Blood Cell Classifier
-CNN-based blood cell classification with optimized inference speed
-
-Improved classification accuracy from 82% → 95% via hyperparameter tuning and architecture optimization
-Built a Flask inference API with real-time predictions under 1.2s latency
-Stack: Python · TensorFlow · CNN · Flask
-
-
-💼 Jobby App — Job Platform
-Scalable full-stack job search platform
-
-Integrated REST APIs with dynamic filtering, routing, and state management
-Implemented persistent client-side storage and fully responsive UI
-Stack: React.js · REST APIs · Bootstrap
+What I actually bring:
+- Can build end-to-end projects (frontend → backend → ML integration)  
+- Understands core CS fundamentals (DSA, OOP, APIs)  
+- Can explain implementation decisions clearly  
 
 
-🏙️ Smart City Assistant — Generative AI Internship @ Smartbridge
-AI-powered city assistant built with IBM Granite LLM
+======================
+🚀 PROJECTS
+======================
 
-Designed and deployed using React.js, Node.js, MongoDB, and IBM Granite LLM
-Implemented JWT authentication and REST APIs achieving sub-3s response time
-Stack: React.js · Node.js · MongoDB · IBM Watson · JWT
+🛡️ PhishGuard — Phishing URL Detection  
+- Built a Random Forest model using 100K+ URLs  
+- Engineered lexical and structural features  
+- Developed a Flask API for real-time predictions  
+- Integrated with a simple frontend for URL checking  
+Stack: Python, Scikit-learn, Flask, React  
 
-
-🛠️ Tech Stack
-Languages: Python, C, C++, JavaScript
-Frontend: React.js, HTML, CSS, Bootstrap, Flexbox
-Backend: Node.js, Express.js, Django, Flask
-ML / AI: TensorFlow, Scikit-learn, Pandas, NumPy
-Databases: MongoDB, MySQL, SQLite
-Cloud & Tools: AWS, IBM Cloud, Git, GitHub, VS Code
-CS Fundamentals: DSA, OOP, REST APIs, Algorithms
-
-📜 Certifications
-
-🏅 AWS Educate — Generative AI (2025)
-☁️ AWS Academy — Cloud Foundations (2023)
-🤖 Industry-Ready Full-Stack, AI & ML — NxtWave Academy (2024–Present)
-🔁 Automation Anywhere RPA Workshop (2026)
-✅ MCP Project Completion — NxtWave Academy (2025)
+What matters:
+- Focus on feature engineering + model evaluation  
+- Can explain how predictions are made  
 
 
-📰 Research Publication
-ML-Based Phishing URL Detection Using Lexical & Structural Features (2026)
-Random Forest classifier trained on 100,000+ URLs achieving 99.9% accuracy — demonstrating practical application of ML in cybersecurity threat detection.
+🩸 HematoVision — Blood Cell Classifier  
+- Built a CNN model for image classification  
+- Improved accuracy through hyperparameter tuning  
+- Created a Flask API for predictions  
+Stack: TensorFlow, Flask  
 
-🎯 Extra-Curricular
-
-🔍 Advanced Ethical Hacking Workshop — Vulnerability assessment & penetration testing
-💡 GDSC Coding Gala — Google Developer Student Clubs
-🧠 LLMs & Agentic AI Masterclass — NxtWave
+What matters:
+- Understand CNN basics (layers, overfitting, validation)  
+- Can explain training vs inference clearly  
 
 
-💬 Open to internships, collaborations, and full-time roles in Cybersecurity, Full-Stack, or ML Engineering
+💼 Jobby App — Job Search Platform  
+- Developed a React-based job search UI  
+- Integrated REST APIs with filtering and routing  
+- Implemented state management and persistent storage  
+Stack: React.js, REST APIs, Bootstrap  
+
+What matters:
+- Strong understanding of React fundamentals  
+- API integration and UI state handling  
+
+
+🏙️ Smart City Assistant — AI Internship Project  
+- Built a web-based assistant using LLM APIs  
+- Implemented authentication using JWT  
+- Developed backend APIs with Node.js  
+Stack: React.js, Node.js, MongoDB  
+
+What matters:
+- API integration and backend logic  
+- Authentication flow (login → token → protected routes)  
+
+
+======================
+🛠️ TECH STACK
+======================
+
+Languages: Python, C, C++, JavaScript  
+Frontend: React.js, HTML, CSS, Bootstrap  
+Backend: Node.js, Express.js, Flask  
+ML: Scikit-learn, TensorFlow, Pandas, NumPy  
+Databases: MongoDB, MySQL  
+Tools: Git, GitHub, VS Code  
+Core: DSA, OOP, REST APIs  
+
+
+======================
+📜 CERTIFICATIONS
+======================
+
+- AWS Educate — Generative AI (2025)  
+- AWS Academy — Cloud Foundations (2023)  
+- Full-Stack + AI/ML — NxtWave (Ongoing)  
+
+
+======================
+📰 RESEARCH
+======================
+
+ML-Based Phishing URL Detection (2026)  
+- Built a Random Forest model on 100K+ URLs  
+- Focused on feature engineering and classification  
+
+
+======================
+🎯 EXTRA
+======================
+
+- Ethical Hacking Workshop (Basics of VAPT)  
+- GDSC Coding Event Participation  
+- LLM & AI Learning Sessions  
+
+
+======================
+💬 CONTACT
+======================
+
+Open to internships and entry-level roles in:
+- Cybersecurity  
+- Full-Stack Development  
+- Machine Learning  
+
 📩 kphaneendra2005@gmail.com
-"Security is not a product, but a process." — Bruce Schneier
+
+"Security is not a product, but a process."
+— Bruce Schneier
