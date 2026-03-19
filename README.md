@@ -6,9 +6,9 @@ Building secure web applications and practical ML systems
 📧 kphaneendra2005@gmail.com | https://www.linkedin.com/in/phaneendra-kanduri-067520280/ | https://github.com/Phaneendra2005
 
 
-======================
+
 🧑‍💻 ABOUT ME
-======================
+
 
 Final-year B.Tech Computer Science (Cybersecurity) student at RGMCET, Nandyal  
 Graduating May 2026 | CGPA: 8.20/10  
@@ -24,9 +24,9 @@ What I actually bring:
 - Can explain implementation decisions clearly  
 
 
-======================
+
 🚀 PROJECTS
-======================
+
 
 🛡️ PhishGuard — Phishing URL Detection  
 - Built a Random Forest model using 100K+ URLs  
@@ -73,9 +73,9 @@ What matters:
 - Authentication flow (login → token → protected routes)  
 
 
-======================
+
 🛠️ TECH STACK
-======================
+
 
 Languages: Python, C, C++, JavaScript  
 Frontend: React.js, HTML, CSS, Bootstrap  
@@ -86,36 +86,36 @@ Tools: Git, GitHub, VS Code
 Core: DSA, OOP, REST APIs  
 
 
-======================
+
 📜 CERTIFICATIONS
-======================
+
 
 - AWS Educate — Generative AI (2025)  
 - AWS Academy — Cloud Foundations (2023)  
 - Full-Stack + AI/ML — NxtWave (Ongoing)  
 
 
-======================
+
 📰 RESEARCH
-======================
+
 
 ML-Based Phishing URL Detection (2026)  
 - Built a Random Forest model on 100K+ URLs  
 - Focused on feature engineering and classification  
 
 
-======================
+
 🎯 EXTRA
-======================
+
 
 - Ethical Hacking Workshop (Basics of VAPT)  
 - GDSC Coding Event Participation  
 - LLM & AI Learning Sessions  
 
 
-======================
+
 💬 CONTACT
-======================
+
 
 Open to internships and entry-level roles in:
 - Cybersecurity  
