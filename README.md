@@ -1,8 +1,7 @@
-Hi, I'm Phaneendra Kanduri 👋
-
+👋 Hi, I'm Phaneendra Kanduri
 Full-Stack Developer · ML Engineer · Cybersecurity Enthusiast
 
-🚀 Building secure, scalable web apps and practical ML systems
+🚀 Building secure web applications and real-world ML systems
 
 📧 kphaneendra2005@gmail.com
 
@@ -10,123 +9,123 @@ Full-Stack Developer · ML Engineer · Cybersecurity Enthusiast
 
 💻 https://github.com/Phaneendra2005
 
+🧑‍💻 About Me
 
-🧑‍💻 ABOUT ME
+🎓 Final-year B.Tech CSE (Cybersecurity) @ RGMCET (2026)
+📊 CGPA: 8.20 / 10
 
+I focus on:
 
-Final-year B.Tech Computer Science (Cybersecurity) student at RGMCET, Nandyal  
-Graduating May 2026 | CGPA: 8.20/10  
+Building end-to-end applications (frontend → backend → ML)
 
-- Focused on secure application development and backend systems  
-- Hands-on experience in ML model building and API deployment  
-- Built full-stack applications using React, Node.js, and Flask  
-- Basic exposure to AWS and cloud deployments  
+Writing clean backend logic and APIs
 
-What I actually bring:
-- Can build end-to-end projects (frontend → backend → ML integration)  
-- Understands core CS fundamentals (DSA, OOP, APIs)  
-- Can explain implementation decisions clearly  
+Developing security-focused systems
 
+💡 What I bring:
 
+Deliver complete working projects (not just code)
 
-🚀 PROJECTS
+Strong fundamentals in DSA, OOP, REST APIs
 
+Ability to explain system design and decisions clearly
 
-🛡️ PhishGuard — Phishing URL Detection  
-- Built a Random Forest model using 100K+ URLs  
-- Engineered lexical and structural features  
-- Developed a Flask API for real-time predictions  
-- Integrated with a simple frontend for URL checking  
-Stack: Python, Scikit-learn, Flask, React  
+🚀 Projects
+🛡️ PhishGuard — Phishing URL Detection
 
-What matters:
-- Focus on feature engineering + model evaluation  
-- Can explain how predictions are made  
+Trained Random Forest model on 100K+ URLs
 
+Achieved ~95% accuracy
 
-🩸 HematoVision — Blood Cell Classifier  
-- Built a CNN model for image classification  
-- Improved accuracy through hyperparameter tuning  
-- Created a Flask API for predictions  
-Stack: TensorFlow, Flask  
+Engineered lexical + structural features
 
-What matters:
-- Understand CNN basics (layers, overfitting, validation)  
-- Can explain training vs inference clearly  
+Built Flask API for real-time prediction
 
+Integrated with frontend UI
 
-💼 Jobby App — Job Search Platform  
-- Developed a React-based job search UI  
-- Integrated REST APIs with filtering and routing  
-- Implemented state management and persistent storage  
-Stack: React.js, REST APIs, Bootstrap  
+Tech: Python, Scikit-learn, Flask, React
 
-What matters:
-- Strong understanding of React fundamentals  
-- API integration and UI state handling  
+🔗 Code: https://github.com/Phaneendra2005
 
+🔗 Live: (add when deployed)
 
-🏙️ Smart City Assistant — AI Internship Project  
-- Built a web-based assistant using LLM APIs  
-- Implemented authentication using JWT  
-- Developed backend APIs with Node.js  
-Stack: React.js, Node.js, MongoDB  
+🩸 HematoVision — Blood Cell Classifier
 
-What matters:
-- API integration and backend logic  
-- Authentication flow (login → token → protected routes)  
+Built CNN model for image classification
 
+Improved performance using hyperparameter tuning
 
+Developed API for prediction
 
-🛠️ TECH STACK
+Tech: TensorFlow, Flask
 
+🔗 Code: https://github.com/Phaneendra2005
 
-Languages: Python, C, C++, JavaScript  
-Frontend: React.js, HTML, CSS, Bootstrap  
-Backend: Node.js, Express.js, Flask  
-ML: Scikit-learn, TensorFlow, Pandas, NumPy  
-Databases: MongoDB, MySQL  
-Tools: Git, GitHub, VS Code  
-Core: DSA, OOP, REST APIs  
+💼 Jobby App — Job Search Platform
 
+Built responsive UI using React
 
+Integrated REST APIs with filtering & routing
 
-📜 CERTIFICATIONS
+Managed state and persistent storage
 
+Tech: React.js, Bootstrap
 
-- AWS Educate — Generative AI (2025)  
-- AWS Academy — Cloud Foundations (2023)  
-- Full-Stack + AI/ML — NxtWave (Ongoing)  
+🔗 Code: https://github.com/Phaneendra2005
 
+🏙️ Smart City Assistant — AI Project
 
+Built assistant using LLM APIs
 
-📰 RESEARCH
+Implemented JWT-based authentication
 
+Developed backend APIs and database integration
 
-ML-Based Phishing URL Detection (2026)  
-- Built a Random Forest model on 100K+ URLs  
-- Focused on feature engineering and classification  
+Tech: React.js, Node.js, MongoDB
 
+🔗 Code: https://github.com/Phaneendra2005
 
+🛠️ Tech Stack
 
-🎯 EXTRA
+Languages: Python, C, C++, JavaScript
+Frontend: React.js, HTML, CSS, Bootstrap
+Backend: Node.js, Express.js, Flask
+Machine Learning: Scikit-learn, TensorFlow, Pandas, NumPy
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, VS Code
 
+📜 Certifications
 
-- Ethical Hacking Workshop (Basics of VAPT)  
-- GDSC Coding Event Participation  
-- LLM & AI Learning Sessions  
+AWS Educate — Generative AI (2025)
 
+AWS Academy — Cloud Foundations (2023)
 
+Full-Stack + AI/ML — NxtWave (Ongoing)
 
-💬 CONTACT
+📰 Research
 
+ML-Based Phishing URL Detection (2026)
 
-Open to internships and entry-level roles in:
-- Cybersecurity  
-- Full-Stack Development  
-- Machine Learning  
+Built classification model on large dataset
 
-📩 kphaneendra2005@gmail.com
+Focused on feature engineering & evaluation
 
-"Security is not a product, but a process."
-— Bruce Schneier
+🎯 Interests
+
+Cybersecurity (VAPT basics)
+
+Backend engineering
+
+Applied Machine Learning
+
+📬 Contact
+
+💼 Open to:
+
+Internships
+
+Entry-level roles (Full-Stack / Backend / ML)
+
+📧 kphaneendra2005@gmail.com
+
+“Security is not a product, but a process.” — Bruce Schneier
