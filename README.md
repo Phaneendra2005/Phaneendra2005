@@ -1,131 +1,116 @@
-👋 Hi, I'm Phaneendra Kanduri
-Full-Stack Developer · ML Engineer · Cybersecurity Enthusiast
+# 👋 Hi, I'm Phaneendra Kanduri  
+### 🚀 Full-Stack Developer · ML Engineer · Cybersecurity Enthusiast  
 
-🚀 Building secure web applications and real-world ML systems
+🚀 Building **secure web applications** and **real-world ML systems**  
 
-📧 kphaneendra2005@gmail.com
+📧 kphaneendra2005@gmail.com  
+🔗 https://www.linkedin.com/in/phaneendra-kanduri-067520280/  
+💻 https://github.com/Phaneendra2005  
 
-🔗 https://www.linkedin.com/in/phaneendra-kanduri-067520280/
+---
 
-💻 https://github.com/Phaneendra2005
+## 📊 GitHub Stats  
 
-🧑‍💻 About Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phaneendra2005&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaneendra2005&layout=compact&theme=tokyonight)  
+![Streak](https://streak-stats.demolab.com?user=Phaneendra2005&theme=tokyonight)
 
-🎓 Final-year B.Tech CSE (Cybersecurity) @ RGMCET (2026)
-📊 CGPA: 8.20 / 10
+---
 
-I focus on:
+## 🧑‍💻 About Me  
 
-Building end-to-end applications (frontend → backend → ML)
+🎓 Final-year B.Tech CSE (Cybersecurity) @ RGMCET (2026)  
+📊 CGPA: 8.20 / 10  
 
-Writing clean backend logic and APIs
+- Build **end-to-end systems (frontend → backend → ML)**  
+- Focus on **secure backend + real-world ML use cases**  
+- Strong in **DSA, APIs, OOP fundamentals**  
 
-Developing security-focused systems
+---
 
-💡 What I bring:
+## 🚀 Featured Projects  
 
-Deliver complete working projects (not just code)
+### 🛡️ PhishGuard — Phishing URL Detection  
+- Random Forest model trained on **100K+ URLs**  
+- ~95% accuracy  
+- Flask API for real-time prediction  
+- Integrated frontend for testing  
 
-Strong fundamentals in DSA, OOP, REST APIs
+**Tech:** Python, Scikit-learn, Flask, React  
 
-Ability to explain system design and decisions clearly
+🔗 Code: https://github.com/Phaneendra2005  
+🔗 Live: (add deployed link)
 
-🚀 Projects
-🛡️ PhishGuard — Phishing URL Detection
+---
 
-Trained Random Forest model on 100K+ URLs
+### 🩸 HematoVision — Blood Cell Classifier  
+- CNN model for image classification  
+- Hyperparameter tuning improved performance  
+- API-based inference  
 
-Achieved ~95% accuracy
+**Tech:** TensorFlow, Flask  
 
-Engineered lexical + structural features
+🔗 Code: https://github.com/Phaneendra2005  
 
-Built Flask API for real-time prediction
+---
 
-Integrated with frontend UI
+### 💼 Jobby App — Job Search Platform  
+- Responsive React UI  
+- API integration with filtering & routing  
+- State management + persistence  
 
-Tech: Python, Scikit-learn, Flask, React
+**Tech:** React.js, Bootstrap  
 
-🔗 Code: https://github.com/Phaneendra2005
+🔗 Code: https://github.com/Phaneendra2005  
 
-🔗 Live: (add when deployed)
+---
 
-🩸 HematoVision — Blood Cell Classifier
+### 🏙️ Smart City Assistant — AI System  
+- LLM-based assistant  
+- JWT authentication system  
+- Backend APIs with Node.js  
 
-Built CNN model for image classification
+**Tech:** React, Node.js, MongoDB  
 
-Improved performance using hyperparameter tuning
+🔗 Code: https://github.com/Phaneendra2005  
 
-Developed API for prediction
+---
 
-Tech: TensorFlow, Flask
+## 🛠️ Tech Stack  
 
-🔗 Code: https://github.com/Phaneendra2005
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)  
 
-💼 Jobby App — Job Search Platform
+---
 
-Built responsive UI using React
+## 📜 Certifications  
 
-Integrated REST APIs with filtering & routing
+- AWS Educate — Generative AI (2025)  
+- AWS Academy — Cloud Foundations (2023)  
+- NxtWave — Full-Stack + AI/ML (Ongoing)  
 
-Managed state and persistent storage
+---
 
-Tech: React.js, Bootstrap
+## 🌐 Connect With Me  
 
-🔗 Code: https://github.com/Phaneendra2005
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phaneendra-kanduri-067520280/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Phaneendra2005)  
 
-🏙️ Smart City Assistant — AI Project
+📧 kphaneendra2005@gmail.com  
 
-Built assistant using LLM APIs
+---
 
-Implemented JWT-based authentication
+## 🎯 Interests  
 
-Developed backend APIs and database integration
+- Cybersecurity (VAPT basics)  
+- Backend engineering  
+- Applied Machine Learning  
 
-Tech: React.js, Node.js, MongoDB
+---
 
-🔗 Code: https://github.com/Phaneendra2005
-
-🛠️ Tech Stack
-
-Languages: Python, C, C++, JavaScript
-Frontend: React.js, HTML, CSS, Bootstrap
-Backend: Node.js, Express.js, Flask
-Machine Learning: Scikit-learn, TensorFlow, Pandas, NumPy
-Databases: MongoDB, MySQL
-Tools: Git, GitHub, VS Code
-
-📜 Certifications
-
-AWS Educate — Generative AI (2025)
-
-AWS Academy — Cloud Foundations (2023)
-
-Full-Stack + AI/ML — NxtWave (Ongoing)
-
-📰 Research
-
-ML-Based Phishing URL Detection (2026)
-
-Built classification model on large dataset
-
-Focused on feature engineering & evaluation
-
-🎯 Interests
-
-Cybersecurity (VAPT basics)
-
-Backend engineering
-
-Applied Machine Learning
-
-📬 Contact
-
-💼 Open to:
-
-Internships
-
-Entry-level roles (Full-Stack / Backend / ML)
-
-📧 kphaneendra2005@gmail.com
-
-“Security is not a product, but a process.” — Bruce Schneier
+> “Security is not a product, but a process.” — Bruce Schneier  
