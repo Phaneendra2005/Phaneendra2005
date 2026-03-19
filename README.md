@@ -1,7 +1,6 @@
 Hi, I'm Phaneendra Kanduri 👋
-Computer Science (Cybersecurity) Student | Full-Stack Developer | ML Engineer
-
-Building secure web applications and practical ML systems
+Computer Science & Cybersecurity Student · Full-Stack Developer · ML Engineer
+Building secure, intelligent, and scalable applications
 
 📧 kphaneendra2005@gmail.com | https://www.linkedin.com/in/phaneendra-kanduri-067520280/ | https://github.com/Phaneendra2005
 
