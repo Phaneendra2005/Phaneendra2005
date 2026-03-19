@@ -30,8 +30,8 @@
 
 **Tech:** Python, Scikit-learn, Flask, React  
 
-🔗 Code: https://github.com/Phaneendra2005  
-🔗 Live: (add deployed link)
+🔗 Code: https://github.com/Phaneendra2005/phishguard  
+🔗 Live: https://phishguard-kanduri.netlify.app/
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Tech:** TensorFlow, Flask  
 
-🔗 Code: https://github.com/Phaneendra2005  
+🔗 Code: https://github.com/Phaneendra2005/HematoVision-AI  
 
 ---
 
@@ -53,7 +53,7 @@
 
 **Tech:** React.js, Bootstrap  
 
-🔗 Code: https://github.com/Phaneendra2005  
+🔗 Code: https://github.com/Phaneendra2005/jobby-app  
 
 ---
 
@@ -64,7 +64,7 @@
 
 **Tech:** React, Node.js, MongoDB  
 
-🔗 Code: https://github.com/Phaneendra2005  
+🔗 Code: https://github.com/Phaneendra2005/Sustainable-Smart-City-Assistant-  
 
 ---
 
