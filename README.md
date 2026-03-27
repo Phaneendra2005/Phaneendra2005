@@ -6,6 +6,7 @@
 📧 kphaneendra2005@gmail.com  
 🔗 https://www.linkedin.com/in/phaneendra-kanduri-067520280/  
 💻 https://github.com/Phaneendra2005  
+🌐 Portfolio: https://phaneendra2005.github.io/phaneendra-portfolio/  
 
 ---
 
