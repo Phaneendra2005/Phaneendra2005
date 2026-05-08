@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me  
 
-🎓 Final-year B.Tech CSE (Cybersecurity) @ RGMCET (2026)  
+🎓 B.Tech Graduate in Computer Science (Cyber Security) @ RGMCET (2026)  
 📊 CGPA: 8.20 / 10  
 
 - Build **end-to-end systems (frontend → backend → ML)**  
