@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me  
 
 🎓 B.Tech Graduate in Computer Science (Cyber Security) @ RGMCET (2026)  
-📊 CGPA: 8.20 / 10  
+📊 CGPA: 8.31 / 10  
 
 - Build **end-to-end systems (frontend → backend → ML)**  
 - Focus on **secure backend + real-world ML use cases**  
