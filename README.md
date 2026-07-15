@@ -4,7 +4,7 @@
 🚀 Building **secure web applications** and **real-world ML systems**  
 
 📧 kphaneendra2005@gmail.com  
-🔗 https://www.linkedin.com/in/phaneendra-kanduri
+🔗 https://www.linkedin.com/in/phaneendra-kanduri 
 💻 https://github.com/Phaneendra2005  
 🌐 Portfolio: https://phaneendra2005.github.io/phaneendra-portfolio/  
 
